@@ -282,11 +282,17 @@ About Page CSS */
     padding-bottom: 8px;
 }
 .topPage button{
-    border-radius: 12px;
+    border-radius: 5px;
     border: 2px solid black;
     padding: 10px;
     width: 120px;
     height: 30px;
+}
+.topPage p{
+    padding-bottom: 20px;
+}
+.bottomPage p{
+ padding-bottom: 20px;
 }
 hr {
     border-top: 2px dotted black;
@@ -309,7 +315,7 @@ padding-top: 10px;
 padding-top: 10px;
 }
 .bottomPage button{
-    border-radius: 8px;
+    border-radius: 5px;
     border: 2px solid black;
     padding: 10px;
     width: 120px;
@@ -320,4 +326,18 @@ padding-top: 10px;
 }
 .last{
     padding-bottom: 20px;
+}
+.bottomPage img{
+    padding-top: 20px;
+    border-top: 2px dotted black;
+}
+.placesWeWork{
+    border-bottom: 2px dotted black;
+    padding: 10px;
+    margin: 5px;
+}
+.collab{
+    border-bottom: 2px dotted black;
+    padding: 10px;
+    margin: 5px;
 }
